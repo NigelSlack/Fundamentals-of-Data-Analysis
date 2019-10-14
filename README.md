@@ -16,7 +16,7 @@ The second part looks in more detail at the relationship between the total bill 
 The final section examines a number of pairs of variables to search for interesting correlations 
 
 A snippet of the first few rows of the data is :
-![alt text](sampledata.pdf.pdf)
+![alt text](sampledata.jpg)
 
 **Method**
 To analyse the dataset :

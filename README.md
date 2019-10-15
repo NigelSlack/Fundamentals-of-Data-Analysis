@@ -33,11 +33,10 @@ total bill and tip amount.
 **Files**
 The following files constitute the project :
 
-jupyter_notebook.ipynb -  The Jupyter Notebook containing the code and text commentary
-                        No run time arguments required, but 'help' can be accepted as an argument
-                        Syntax : python iris_dataset.py [help]
+jupyter_notebook.ipynb -  The Jupyter Notebook containing the code and text commentary  
+                          Double click to run
 
-sampledata.pdf      -  A copy of the first few rows of the dataset, to display in this Readme file
+sampledata.jpg         -  A copy of the first few rows of the dataset, to display in this Readme file
 
 
 **References**

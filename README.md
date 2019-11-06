@@ -45,9 +45,6 @@ The following files constitute the project :
 jupyter_notebook.ipynb -  The Jupyter Notebook containing the code and text commentary  
                           Double click to run
 
-sampledata.jpg         -  A copy of the first few rows of the dataset, to display in this Readme file
-
-
 **References**
 
 [1] https://analyticsindiamag.com/a-simple-introduction-to-pythons-seaborn-library/
